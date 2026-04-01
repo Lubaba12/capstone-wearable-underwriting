@@ -1,0 +1,73 @@
+scenario,classifier,group_type,group,reference,DIR,fair
+A,Logistic Regression,Gender,Female,Male,0.29853639623921685,False
+A,Logistic Regression,Gender,Male,Male,1.0,True
+A,Logistic Regression,Age Band,30-45,30-45,1.0,True
+A,Logistic Regression,Age Band,46-60,30-45,5.88181148748159,False
+A,Logistic Regression,Age Band,61-75,30-45,8.360858794384805,False
+A,Logistic Regression,Age Band,76-85,30-45,11.39950166112957,False
+A,Decision Tree,Gender,Female,Male,0.4373127941805734,False
+A,Decision Tree,Gender,Male,Male,1.0,True
+A,Decision Tree,Age Band,30-45,30-45,1.0,True
+A,Decision Tree,Age Band,46-60,30-45,2.8762886597938144,False
+A,Decision Tree,Age Band,61-75,30-45,5.2543352601156075,False
+A,Decision Tree,Age Band,76-85,30-45,5.127906976744186,False
+A,Random Forest,Gender,Female,Male,0.3163841807909604,False
+A,Random Forest,Gender,Male,Male,1.0,True
+A,Random Forest,Age Band,30-45,30-45,1.0,True
+A,Random Forest,Age Band,46-60,30-45,8.505154639175258,False
+A,Random Forest,Age Band,61-75,30-45,15.606936416184972,False
+A,Random Forest,Age Band,76-85,30-45,14.825581395348838,False
+A,XGBoost,Gender,Female,Male,0.3274853801169591,False
+A,XGBoost,Gender,Male,Male,1.0,True
+A,XGBoost,Age Band,30-45,30-45,1.0,True
+A,XGBoost,Age Band,46-60,30-45,7.05541237113402,False
+A,XGBoost,Age Band,61-75,30-45,11.8135838150289,False
+A,XGBoost,Age Band,76-85,30-45,10.901162790697674,False
+B,Logistic Regression,Gender,Female,Male,0.36943972835314093,False
+B,Logistic Regression,Gender,Male,Male,1.0,True
+B,Logistic Regression,Age Band,30-45,30-45,1.0,True
+B,Logistic Regression,Age Band,46-60,30-45,7.055555555555555,False
+B,Logistic Regression,Age Band,61-75,30-45,11.473520249221183,False
+B,Logistic Regression,Age Band,76-85,30-45,15.051851851851852,False
+B,Decision Tree,Gender,Female,Male,0.3336591723688498,False
+B,Decision Tree,Gender,Male,Male,1.0,True
+B,Decision Tree,Age Band,30-45,30-45,1.0,True
+B,Decision Tree,Age Band,46-60,30-45,2.993265993265993,False
+B,Decision Tree,Age Band,61-75,30-45,6.52803738317757,False
+B,Decision Tree,Age Band,76-85,30-45,5.87962962962963,False
+B,Random Forest,Gender,Female,Male,0.23153451914380466,False
+B,Random Forest,Gender,Male,Male,1.0,True
+B,Random Forest,Age Band,30-45,30-45,1.0,True
+B,Random Forest,Age Band,46-60,30-45,3.8484848484848486,False
+B,Random Forest,Age Band,61-75,30-45,7.8336448598130834,False
+B,Random Forest,Age Band,76-85,30-45,7.055555555555556,False
+B,XGBoost,Gender,Female,Male,0.2701236056677721,False
+B,XGBoost,Gender,Male,Male,1.0,True
+B,XGBoost,Age Band,30-45,30-45,1.0,True
+B,XGBoost,Age Band,46-60,30-45,3.61524334251607,False
+B,XGBoost,Age Band,61-75,30-45,7.229396771452846,False
+B,XGBoost,Age Band,76-85,30-45,6.670707070707071,False
+C,Logistic Regression,Gender,Female,Male,1.0981468771448182,True
+C,Logistic Regression,Gender,Male,Male,1.0,True
+C,Logistic Regression,Age Band,30-45,30-45,1.0,True
+C,Logistic Regression,Age Band,46-60,30-45,1.2282398452611218,True
+C,Logistic Regression,Age Band,61-75,30-45,1.7172400079538674,False
+C,Logistic Regression,Age Band,76-85,30-45,2.0416075650118204,False
+C,Decision Tree,Gender,Female,Male,1.1260997067448681,True
+C,Decision Tree,Gender,Male,Male,1.0,True
+C,Decision Tree,Age Band,30-45,30-45,1.0,True
+C,Decision Tree,Age Band,46-60,30-45,1.2258136924803593,True
+C,Decision Tree,Age Band,61-75,30-45,1.846313603322949,False
+C,Decision Tree,Age Band,76-85,30-45,1.6306172839506172,False
+C,Random Forest,Gender,Female,Male,1.067853170189099,True
+C,Random Forest,Gender,Male,Male,1.0,True
+C,Random Forest,Age Band,30-45,30-45,1.0,True
+C,Random Forest,Age Band,46-60,30-45,1.1953627180899908,True
+C,Random Forest,Age Band,61-75,30-45,1.8612999150382328,False
+C,Random Forest,Age Band,76-85,30-45,1.4752525252525253,False
+C,XGBoost,Gender,Female,Male,1.0546984572230014,True
+C,XGBoost,Gender,Male,Male,1.0,True
+C,XGBoost,Age Band,30-45,30-45,1.0,True
+C,XGBoost,Age Band,46-60,30-45,1.1463571889103803,True
+C,XGBoost,Age Band,61-75,30-45,1.7930005965400675,False
+C,XGBoost,Age Band,76-85,30-45,1.5612293144208036,False
